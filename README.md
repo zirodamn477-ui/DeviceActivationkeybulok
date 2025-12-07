@@ -27,5 +27,11 @@
         "key": "VipUser17",
         "expirydate": "20-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a0fbfe50c43862c8",
+        "key": "jaipogi",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     }
 ]
