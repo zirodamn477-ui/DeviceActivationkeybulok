@@ -86,5 +86,10 @@
         "key": "VIPUSER18",
         "expirydate": "20-012-2025",
         "Allowoffline": false
+    },,{
+        "device_id": "0315eb36e1d83740",
+        "key": "24hrskey",
+        "expirydate": "8-012-2025",
+        "Allowoffline": false
     }
 ]
