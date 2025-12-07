@@ -33,5 +33,11 @@
         "key": "jaipogi",
         "expirydate": "9-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "afe0d8acf47eb8d2",
+        "key": "keymoto",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     }
 ]
