@@ -56,5 +56,15 @@
         "key": "1daysfree",
         "expirydate": "9-012-2025",
         "Allowoffline": false
-    }
+    },    {
+        "device_id": "0fca65bced24e8f1",
+        "key": "buratkapre",
+        "expirydate": "20-012-2025",
+        "Allowoffline": false
+    },    {
+        "device_id": "48e3770c244cf0ac",
+        "key": "subumutu",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
+    },
 ]
