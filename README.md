@@ -76,5 +76,10 @@
         "key": "hayopkahaha",
         "expirydate": "9-012-2025",
         "Allowoffline": false
-    },
+    },{
+        "device_id": "0929340510bda324",
+        "key": "badingka12",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
+    }
 ]
