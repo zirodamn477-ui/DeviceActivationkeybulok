@@ -71,5 +71,10 @@
         "key": "badingka",
         "expirydate": "9-012-2025",
         "Allowoffline": false
+    },{
+        "device_id": "c1f97ad27b70c0d8",
+        "key": "hayopkahaha",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     },
 ]
