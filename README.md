@@ -66,5 +66,10 @@
         "key": "subumutu",
         "expirydate": "9-012-2025",
         "Allowoffline": false
+    },{
+        "device_id": "bfe5f173cbb6211f",
+        "key": "badingka",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     },
 ]
