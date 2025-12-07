@@ -39,5 +39,11 @@
         "key": "keymoto",
         "expirydate": "9-012-2025",
         "Allowoffline": false
+    },
+        {
+        "device_id": "99638724ecf1fd39",
+        "key": "King12",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     }
 ]
