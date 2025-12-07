@@ -21,5 +21,11 @@
         "key": "VipUser",
         "expirydate": "20-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "37fd69b46a6334de",
+        "key": "VipUser17",
+        "expirydate": "20-012-2025",
+        "Allowoffline": false
     }
 ]
