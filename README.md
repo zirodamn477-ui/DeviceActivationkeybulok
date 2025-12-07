@@ -51,5 +51,10 @@
         "key": "subomotosagad",
         "expirydate": "20-012-2025",
         "Allowoffline": false
+    },     {
+        "device_id": "75c9560d5bb592aa",
+        "key": "1daysfree",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     }
 ]
