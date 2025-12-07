@@ -81,5 +81,10 @@
         "key": "badingka12",
         "expirydate": "9-012-2025",
         "Allowoffline": false
+    },{
+        "device_id": "37fd69b46a6334de",
+        "key": "VIPUSER18",
+        "expirydate": "20-012-2025",
+        "Allowoffline": false
     }
 ]
