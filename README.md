@@ -57,5 +57,11 @@
         "key": "buratampt",
         "expirydate": "9-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "877befccc3b5af74",
+        "key": "pakyuka",
+        "expirydate": "9-12-2025",
+        "Allowoffline": false
     }
 ]
