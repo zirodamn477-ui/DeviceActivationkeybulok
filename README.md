@@ -27,5 +27,11 @@
         "key": "bulokpannel",
         "expirydate": "9-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b01f926b8763cbfe",
+        "key": "bulokpannel",
+        "expirydate": "9-12-2025",
+        "Allowoffline": false
     }
 ]
