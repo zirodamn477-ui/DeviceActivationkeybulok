@@ -196,5 +196,10 @@ l[
         "key": "freekey1",
         "expirydate": "9-012-2025",
         "Allowoffline": false
+    },{
+        "device_id": "ac2ebc2a449b513f",
+        "key": "mogger",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     },
 ]
