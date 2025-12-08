@@ -51,5 +51,11 @@
         "key": "freekey",
         "expirydate": "9-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0fca65bced24e8f1",
+        "key": "buratampt",
+        "expirydate": "9-12-2025",
+        "Allowoffline": false
     }
 ]
