@@ -39,5 +39,17 @@
         "key": "primobetlog",
         "expirydate": "9-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a3e37b55575a6bc3",
+        "key": "freekeyshut",
+        "expirydate": "9-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9677744a989558ed",
+        "key": "freekey",
+        "expirydate": "9-12-2025",
+        "Allowoffline": false
     }
 ]
