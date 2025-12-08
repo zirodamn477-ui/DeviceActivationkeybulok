@@ -33,5 +33,11 @@
         "key": "bulokpannel",
         "expirydate": "9-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "57c986442859f9c5",
+        "key": "primobetlog",
+        "expirydate": "9-12-2025",
+        "Allowoffline": false
     }
 ]
